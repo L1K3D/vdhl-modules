@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/vhdl/circuito_4/circuito_4.xst" -ofn "/home/ise/vhdl/circuito_4/circuito_4.syr" 
