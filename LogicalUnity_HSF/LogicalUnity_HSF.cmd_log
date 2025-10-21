@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Program/vdhl-modules/LogicalUnity_HSF/LogicalUnity_HSF.xst" -ofn "/home/ise/Program/vdhl-modules/LogicalUnity_HSF/LogicalUnity_HSF.syr" 

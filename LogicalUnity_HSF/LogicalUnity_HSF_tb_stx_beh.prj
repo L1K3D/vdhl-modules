@@ -1,0 +1,2 @@
+vhdl isim_temp "LogicalUnity_HSF.vhd"
+vhdl isim_temp "LogicalUnity_HSF_Test_Bentch.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Program/vdhl-modules/LogicalUnity_HSF/LogicalUnity_HSF_tb_isim_beh.exe" -prj "/home/ise/Program/vdhl-modules/LogicalUnity_HSF/LogicalUnity_HSF_tb_beh.prj" "LogicalUnity_HSF_tb" 
