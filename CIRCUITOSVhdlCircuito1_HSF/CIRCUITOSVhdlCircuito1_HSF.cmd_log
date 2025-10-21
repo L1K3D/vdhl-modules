@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/vdhl/CIRCUITOSVhdlCircuito1_HSF/CIRCUITOSVhdlCircuito1_HSF.xst" -ofn "/home/ise/vdhl/CIRCUITOSVhdlCircuito1_HSF/CIRCUITOSVhdlCircuito1_HSF.syr" 

@@ -1,1 +1,0 @@
-xst -intstyle ise -ifn "/home/ise/Xilinx/circuito_1/circuito_1.xst" -ofn "/home/ise/Xilinx/circuito_1/circuito_1.syr" 
