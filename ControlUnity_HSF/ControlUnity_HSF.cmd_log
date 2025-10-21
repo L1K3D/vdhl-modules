@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Program/vhdl-control-unity/ControlUnity_HSF/ControlUnity_HSF.xst" -ofn "/home/ise/Program/vhdl-control-unity/ControlUnity_HSF/ControlUnity_HSF.syr" 

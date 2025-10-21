@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/vdhl-modules/CIRCUITOSVhdlCircuito4_HSF/CIRCUITOSVhdlCircuito4_HSF_Test_Bench_isim_beh.exe" -prj "/home/ise/vdhl-modules/CIRCUITOSVhdlCircuito4_HSF/CIRCUITOSVhdlCircuito4_HSF_Test_Bench_beh.prj" "work.CIRCUITOSVhdlCircuito4_HSF_Test_Bench" 

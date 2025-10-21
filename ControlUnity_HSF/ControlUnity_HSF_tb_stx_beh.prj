@@ -1,0 +1,2 @@
+vhdl isim_temp "ControlUnity_HSF.vhd"
+vhdl isim_temp "ControlUnity_HSF_Test_Bentch.vhd"

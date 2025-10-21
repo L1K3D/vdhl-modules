@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Program/vhdl-control-unity/ControlUnity_HSF/ControlUnity_HSF_tb_isim_beh.exe" -prj "/home/ise/Program/vhdl-control-unity/ControlUnity_HSF/ControlUnity_HSF_tb_beh.prj" "work.ControlUnity_HSF_tb" 

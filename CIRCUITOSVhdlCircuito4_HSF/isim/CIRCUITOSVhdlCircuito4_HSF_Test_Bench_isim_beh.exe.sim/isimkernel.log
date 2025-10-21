@@ -1,0 +1,29 @@
+Command line:
+   CIRCUITOSVhdlCircuito4_HSF_Test_Bench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  58451
+
+Tue Oct 21 03:45:22 2025
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 215.273 Meg
+
+ Total Signals          : 15
+ Total Nets             : 10
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 370
+Total Line Count : 22
+
+ Total Simulation Time: 8.29 sec
+
+ Current Memory Usage: 292.872 Meg
+
+Tue Oct 21 03:45:42 2025
+

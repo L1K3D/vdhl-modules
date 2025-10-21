@@ -1,0 +1,2 @@
+vhdl work "ControlUnity_HSF.vhd"
+vhdl work "ControlUnity_HSF_Test_Bentch.vhd"
