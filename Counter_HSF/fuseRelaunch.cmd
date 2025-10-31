@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/vdhl/Counter_HSF/tb_Counter_HSF_isim_beh.exe" -prj "/home/ise/vdhl/Counter_HSF/tb_Counter_HSF_beh.prj" "work.tb_Counter_HSF" 

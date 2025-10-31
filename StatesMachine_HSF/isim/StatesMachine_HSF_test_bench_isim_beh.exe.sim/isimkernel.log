@@ -1,0 +1,29 @@
+Command line:
+   StatesMachine_HSF_test_bench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54761
+
+Fri Oct 31 23:34:37 2025
+
+
+ Elaboration Time: 0.08 sec
+
+ Current Memory Usage: 215.273 Meg
+
+ Total Signals          : 11
+ Total Nets             : 7
+ Total Signal Drivers   : 6
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 368
+Total Line Count : 46
+
+ Total Simulation Time: 24.76 sec
+
+ Current Memory Usage: 292.872 Meg
+
+Fri Oct 31 23:35:20 2025
+

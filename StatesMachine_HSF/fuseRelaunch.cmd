@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF_test_bench_isim_beh.exe" -prj "/home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF_test_bench_beh.prj" "StatesMachine_HSF_test_bench" 
