@@ -1,0 +1,2 @@
+vhdl work "StatesMachine_HSF.vhd"
+vhdl work "StatesMachine_HSF_test_bench.vhd"

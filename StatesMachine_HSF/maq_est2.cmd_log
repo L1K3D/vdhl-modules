@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/vdhl/StatesMachine_HSF/maq_est2.xst" -ofn "/home/ise/vdhl/StatesMachine_HSF/maq_est2.syr" 

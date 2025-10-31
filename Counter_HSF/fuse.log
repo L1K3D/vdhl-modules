@@ -1,0 +1,22 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ise/vdhl/Counter_HSF/tb_Counter_HSF_isim_beh.exe -prj /home/ise/vdhl/Counter_HSF/tb_Counter_HSF_beh.prj work.tb_Counter_HSF 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/vdhl/Counter_HSF/Counter_HSF.vhd" into library work
+Parsing VHDL file "/home/ise/vdhl/Counter_HSF/Counter_HSF_test_bench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96824 KB
+Fuse CPU Usage: 1840 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity Counter_HSF [counter_hsf_default]
+Compiling architecture sim of entity tb_counter_hsf
+Time Resolution for simulation is 1ps.
+Compiled 6 VHDL Units
+Built simulation executable /home/ise/vdhl/Counter_HSF/tb_Counter_HSF_isim_beh.exe
+Fuse Memory Usage: 111488 KB
+Fuse CPU Usage: 2180 ms
+GCC CPU Usage: 2980 ms

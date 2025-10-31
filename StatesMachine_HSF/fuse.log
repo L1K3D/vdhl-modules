@@ -1,0 +1,21 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF_test_bench_isim_beh.exe -prj /home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF_test_bench_beh.prj StatesMachine_HSF_test_bench 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF.vhd" into library work
+Parsing VHDL file "/home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF_test_bench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95308 KB
+Fuse CPU Usage: 1660 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity StatesMachine_HSF [statesmachine_hsf_default]
+Compiling architecture sim of entity statesmachine_hsf_test_bench
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable /home/ise/vdhl/StatesMachine_HSF/StatesMachine_HSF_test_bench_isim_beh.exe
+Fuse Memory Usage: 103968 KB
+Fuse CPU Usage: 1820 ms
+GCC CPU Usage: 1010 ms

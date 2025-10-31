@@ -1,0 +1,2 @@
+vhdl work "Counter_HSF.vhd"
+vhdl work "Counter_HSF_test_bench.vhd"
